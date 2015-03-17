@@ -3,6 +3,8 @@ Trying to bind Braintree-ios library to Xamarin. It currently works on *simulato
 
 This project contains: 
 * The Xcode static library project containing the Braintree library code.
+* A make file to build that library for all architectures into a libBraintreeSDK.a file
+* The .a resulted from executing that make file
 * The Xamarin iOS binding library 
 * A simple app using the Xamarin binding library contained in the same solution as the binding liblrary.
 
