@@ -6,7 +6,7 @@ This repository contains:
 * **Xcode_Framework/Braintree/Makefile:** A make file to build that library for all architectures into a libBraintreeSDK.a file
 * **Xcode_Framework/Braintree/.*a:** The .a resulted from executing that make file
 * **Xamarin_Binding/BraintreeBinding:**The Xamarin iOS binding library 
-* **Xamarin_Binding/BraintreeBinding/XFormsApp:** A simple app using the Xamarin binding library contained in the same solution as the binding liblrary.
+* **Xamarin_Binding/BraintreeBinding/XFormsApp:** A simple app using the Xamarin binding library contained in the same solution as the binding library.
 
 ###SIMULATOR
 ![image](https://cloud.githubusercontent.com/assets/4906291/6689385/1490b93e-ccba-11e4-8775-e90568e19094.png)
