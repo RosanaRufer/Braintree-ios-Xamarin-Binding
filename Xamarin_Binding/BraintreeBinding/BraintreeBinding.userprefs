@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="BraintreeBinding/BraintreeBinding.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BraintreeBinding/ApiDefinition.cs">
+    <Files>
+      <File FileName="../../../../ApiDefinitions.cs" Line="1" Column="1" />
+      <File FileName="../../Xcode_Framework/Braintree/BraintreeSDKSharpie/StructsAndEnums.cs" Line="1" Column="1" />
+      <File FileName="BraintreeBinding/ApiDefinition.cs" Line="2720" Column="12" />
+      <File FileName="BraintreeBinding/libBraintreeSDK.linkwith.cs" Line="4" Column="82" />
+      <File FileName="BraintreeBinding/StructsAndEnums.cs" Line="6" Column="31" />
+      <File FileName="XFormsApp/XFormsApp.cs" Line="2" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
