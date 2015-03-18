@@ -1,4 +1,6 @@
 using System;
 using ObjCRuntime;
 
-[assembly: LinkWith ("libBraintreeSDK.a", LinkTarget.Simulator | LinkTarget.ArmV7, SmartLink = true, ForceLoad = true)]
+[assembly: LinkWith ("libBraintreeSDK.a", LinkTarget.ArmV7 | LinkTarget.ArmV7s | LinkTarget.Arm64 | LinkTarget.Simulator | LinkTarget.Simulator64, SmartLink = true,
+	ForceLoad = true, Frameworks = "SystemConfiguration Security AudioToolbox PassKit CoreLocation AVFoundation CoreMedia Foundation MessageUI MobileCoreServices UIKit",
+	LinkerFlags = "-lc++ -ObjC")]
